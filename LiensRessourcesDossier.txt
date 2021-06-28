@@ -1,0 +1,11 @@
+Ressources sur les fluxgates :
+Vidéo NASA : https://www.youtube.com/watch?v=vjguJkPgHbY
+
+Vidéo Metrolab technology SA : https://www.youtube.com/watch?v=314GUagR7o4
+
+Texte Metrolab : https://www.metrolab.com/technology/fluxgate/
+
+Texte sensorland.com : https://www.sensorland.com/HowPage071.html
+
+Ressource bobine cos theta / Helmoltz
+Article homogénéité bobine cos theta : https://hal.archives-ouvertes.fr/hal-01402771/document
